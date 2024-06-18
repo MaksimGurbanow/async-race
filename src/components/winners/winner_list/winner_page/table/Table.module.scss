@@ -1,0 +1,12 @@
+.table {
+  display: grid;
+  width: 100%;
+  max-width: 300px;
+}
+
+.properties {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  font-weight: bold;
+  gap: 10px;
+}

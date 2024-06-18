@@ -1,0 +1,18 @@
+.car_heading {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  align-items: center;
+  gap: 5px;
+}
+
+.heading_controllers {
+  display: flex;
+  flex-direction: row;
+  font-size: 1em;
+  gap: 5px;
+  button {
+    padding: 1px;
+    font-size: 0.6em;
+  }
+}

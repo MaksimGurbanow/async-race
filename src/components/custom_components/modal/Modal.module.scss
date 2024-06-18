@@ -1,0 +1,24 @@
+.modal {
+  display: none;
+  z-index: 5000;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: #3333338f;
+  font-size: 25px;
+  color: whitesmoke;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  font-size: 20px;
+  z-index: 10000;
+  display: flex;
+}
+
+.active {
+  display: flex;
+}

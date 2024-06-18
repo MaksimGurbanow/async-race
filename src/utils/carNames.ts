@@ -1,0 +1,41 @@
+export const brands = [
+  'Tesla',
+  'Toyota',
+  'Audi',
+  'BMW',
+  'Lada',
+  'Mercedes',
+  'Ferrari',
+  'Lamborghini',
+  'Bugatti',
+  'Opel',
+  'Ford',
+  'Skoda',
+  'Renault',
+  'Suzuki',
+  'Lexus',
+  'Bentley',
+  'Maserati',
+  'Mazda',
+  'MCLaren',
+  'Maybach',
+  'Nissan',
+  'Pagani',
+  'Citroen'
+]
+
+export const models = [
+  'Model S',
+  'Mustang',
+  'A3',
+  'A4',
+  'A5',
+  'Armada',
+  'Bronco',
+  'CLA',
+  'Corolla',
+  'Corsair',
+  'Crown Signia',
+  'DB11',
+  'DBX'
+]

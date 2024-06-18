@@ -1,0 +1,15 @@
+.car_way {
+  display: flex;
+  width: 100%;
+  position: absolute;
+  justify-content: flex-end;
+  background: linear-gradient(to right, transparent 50%, black 50%) 0 0 / 20px
+    2px repeat-x;
+  background-position: bottom;
+}
+
+.finish {
+  transform: rotateY(180deg) rotateZ(45deg);
+  width: 40px;
+  margin-right: 65px;
+}
